@@ -2,4 +2,3 @@
 
 Used Car Price Prediction using Linear regression
 
-
